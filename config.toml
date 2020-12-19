@@ -1,0 +1,5 @@
+baseURL = "http"
+languageCode = "en-us"
+title = "Mike's Blog"
+theme = "ananke"
+disqusShortname = "gedelman"

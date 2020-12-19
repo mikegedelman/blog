@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mike&#39;s Blog</title>
+    <link>https://mike.gedelman.net/posts/</link>
+    <description>Recent content in Posts on Mike&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 09:30:30 -0700</lastBuildDate><atom:link href="https://mike.gedelman.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Point Insertion</title>
+      <link>https://mike.gedelman.net/posts/point-insertion/</link>
+      <pubDate>Sat, 19 Dec 2020 09:30:30 -0700</pubDate>
+      
+      <guid>https://mike.gedelman.net/posts/point-insertion/</guid>
+      <description>Under construction</description>
+    </item>
+    
+  </channel>
+</rss>
